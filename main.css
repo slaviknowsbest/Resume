@@ -212,6 +212,10 @@ right:0;
 bottom:0;
 }
 
+.pin-m {
+    bottom:-275px;
+    }
+
 .text-sm {
 font-size:.875rem;
 }
@@ -245,7 +249,7 @@ width:16rem;
 }
 
 .w-65 {
-    width:21rem;
+    width:20rem;
     }
 
 body,blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,p,pre,ol,ul,.m-0,.-m-0 {
